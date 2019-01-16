@@ -1,0 +1,81 @@
+dd, dl{
+    color: black;
+    font-family:monospace;
+    
+    
+    
+}
+dt{
+    font-family: 'Merriweather'
+}
+html{
+    background-image: url(backgroung.png);
+    background-size: auto;   
+}
+header{
+    background-color: #333333;
+}
+article{
+    font-family: 'Merriweather', serif;
+
+}
+#introduction{
+    font-family: monospace;
+    
+}
+#link{
+    padding-right: 10%;
+    padding-top: 10px;
+   
+}
+h3{
+    color: deeppink;
+    margin-top: -10px;
+}
+h2{
+   font-family: 'Merriweather', serif;
+   text-align: center;
+    
+}
+h1{
+    font-size: 35px
+}
+a{
+    color: #ff0099;
+    font-variant-caps:petite-caps;
+    font-family: monospace;
+    
+}
+
+hr{
+    width: 20px;
+    border-top: 2px dashed;
+    margin-top: 30px;
+    
+    
+}
+nav{
+    background-color: black;
+    width: 102%;
+    height: 50px;
+    margin-top: -44px;
+    margin-left: -8px;
+    margin-right: -8px;
+    text-align: right;
+    color: deeppink;
+    font-size: 20px;
+}
+main{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 30px;
+}
+#logo{
+    padding-left: 10%;
+}
+span{
+   font-family: inherit;
+   font-size: 10px;
+}
+
+
